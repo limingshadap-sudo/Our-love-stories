@@ -160,7 +160,20 @@ footer {
     <p>And I hope our story never ends. 🌹</p>
   </div>
 </section>
+<section>
+  <h2>Our Special Memories ❤️</h2>
 
+  <div class="card">
+    <img
+      src="IMG_20260309_150834.jpg"
+      alt="Our special memory"
+      style="width:100%; border-radius:15px;"
+    >
+
+    <h2>A Memory to Remember 🌹</h2>
+    <p>Every moment with you is special.</p>
+  </div>
+</section>
 <footer>
   Made with love by Liming ❤️
   <br><br>
