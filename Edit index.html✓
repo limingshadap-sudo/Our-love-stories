@@ -87,7 +87,16 @@ footer {
 }
 </style>
 </head>
+<section id="gallery" style="padding:40px 15px;text-align:center;background:#100000;color:white;">
+  <h2 style="color:#ff3333;">Our Beautiful Memories ❤️</h2>
+  <p>Every picture holds a special memory of us.</p>
 
+  <img
+    src="https://raw.githubusercontent.com/limingshadap-sudo/Our-love-stories/main/IMG_20260309_150834.jpg"
+    alt="Our special memory"
+    style="width:90%;max-width:450px;border-radius:15px;border:2px solid #ff3333;box-shadow:0 0 15px red;"
+  >
+</section>
 <body>
 
 <header>
